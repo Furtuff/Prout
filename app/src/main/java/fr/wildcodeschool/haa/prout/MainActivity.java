@@ -26,15 +26,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent chier = new Intent(MainActivity.this,LoginActivity.class);
                 startActivity(chier);
-            }ffnsxudnlsdjnfhsfhfd gdf fghdnffghft
-            rnydfgotfky,dfy,s4dgf4
-                    toykd,tfùmbdn:ft
-            pktr
-                    ùtj ùdol dnlgk d$f
-                    mlyàpsmro dt
-                            ;dpd odtkyft$u,sr
-                    dp,pp !  j ty;sby r
-                    * y d
+            }
         });
-    }jjjghghghghghg
+    }
 }
